@@ -1,3 +1,0 @@
-Exercice
-  - Partie 1
-
